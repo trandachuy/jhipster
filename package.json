@@ -98,7 +98,7 @@
     "react-router-dom": "6.3.0",
     "react-toastify": "9.0.8",
     "react-transition-group": "4.4.5",
-    "reactstrap": "9.1.4",
+    "reactstrap": "9.1.8",
     "redux": "4.2.0",
     "redux-thunk": "2.4.1",
     "tslib": "2.4.0",
